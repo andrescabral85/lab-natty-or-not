@@ -13,7 +13,7 @@ Usei o "Gemini" para escrever e revisar o roteiro do vídeo. O "HeyGen" foi esse
 ## 🚀 Resultados
 O vídeo faz um breve resumo das principais ferramentas de IA do mundo da música, destacando suas funcionalidades e apontando semelhanças entre elas. No fim é feito um breve resumo sobre o potencial da IA não só na música, como também nos mais diversos mercados.
 
-[LINK PARA O VÍDEO AQUI]()
+[LINK PARA O VÍDEO AQUI](https://app.heygen.com/share/cd87c0a01703405cb6805d252c6bfe9a)
 
 ## 💭 Reflexão
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
